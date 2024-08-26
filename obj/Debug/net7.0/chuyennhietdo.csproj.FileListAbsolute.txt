@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\bin\Debug\net7.0\chuyennhietdo.exe
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\bin\Debug\net7.0\chuyennhietdo.deps.json
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\bin\Debug\net7.0\chuyennhietdo.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\bin\Debug\net7.0\chuyennhietdo.dll
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\bin\Debug\net7.0\chuyennhietdo.pdb
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.dll
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\refint\chuyennhietdo.dll
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.pdb
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\chuyennhietdo.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\chuyennhietdo\obj\Debug\net7.0\ref\chuyennhietdo.dll
